@@ -11,9 +11,13 @@ Credential Management: Add, update, delete, and view credentials securely.
 Backup & Restore: Easily back up and restore encrypted credentials.
 Technologies Used
 bcrypt: For hashing the master password.
-cryptography: For encrypting and decrypting the stored passwords.
-SQLite: To store the credentials in an encrypted database.
-secrets: To generate secure random passwords.
+cryptography: 
+For encrypting and decrypting the stored passwords.
+SQLite: 
+To store the credentials in an encrypted database.
+secrets: 
+To generate secure random passwords.
+
 Installation
 Clone the repository:
 
