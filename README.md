@@ -17,9 +17,6 @@ secrets: To generate secure random passwords.
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/password-manager.git
 cd password-manager
 Install dependencies:
 
